@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a React Native developer with commercial experience for 1.5 years.
+</br>
+I can help you create a mobile aplications for ios & android
+
 <!--
 **aleksandrguzhyk/aleksandrguzhyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
