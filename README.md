@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a React Native developer with commercial experience for 1.5 years.
+I am a React Native developer with commercial experience for 2 years.
 </br>
 I can help you create a mobile aplications for ios & android
 
