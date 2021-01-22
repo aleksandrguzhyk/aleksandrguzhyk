@@ -3,7 +3,8 @@
 I am a React Native developer with commercial experience for 2 years.
 </br>
 I can help you create a mobile aplications for ios & android
-
+</br>
+Also I finished Nodejs course on Udemy.com.
 <!--
 **aleksandrguzhyk/aleksandrguzhyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
